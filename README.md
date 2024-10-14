@@ -20,7 +20,7 @@ https://www.happybday.cc/
 ## 테스트 계정
 https://www.happybday.cc/6e4e4b48-78f5-405c-a60c-2f6f3774bcc6 <br>
 아이디 : test1234 <br>
-비밀번호 : 1234 <br>
+비밀번호 : test1234 <br>
 누구나 메세지를 남길 수 있습니다. 
 메세지 조회는 로그인한 사용자만 생일 당일부터 7일간 가능합니다. 
 
